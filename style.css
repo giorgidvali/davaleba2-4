@@ -1,0 +1,137 @@
+* {
+    padding: o auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+}
+
+#boss {
+    text-align: center;
+    margin-top: 156px;
+    
+}
+
+#foto {
+    width: 1400px;
+}
+
+#mainBoss {
+    margin-top: 115px;
+    border-radius: 24px;
+    background: #EBF8FE;
+    width: 1137px;
+    height: 350px;
+    padding: 40px 32px;
+    text-align: center;
+}
+
+#first {
+    width: 971px;
+    height: 60px;
+    color: #181D27;
+    font-size: 64px;
+}
+
+#spam {
+    width: 1073px;
+    height: 88px;
+    color: #535862;
+    font-size: 32px;
+    padding: 24px;
+}
+
+#email {
+    margin-right: 24px;
+    margin-top: 24px;
+    display: inline-block;
+    border: 1px solid #D5D7DA;
+    padding: 14px;
+    border-radius: 8px;
+    background: #fff;
+    text-align: center;
+    
+}
+
+#mail {
+    width: 345px;
+}
+
+#subscribe {
+    display: inline-block;
+}
+
+button {
+    display: inline-block;
+    border-radius: 8px;
+    border: 2px solid #fff;
+    background: #007CB8;
+    padding: 18px;
+}
+
+#care {
+    color: #535862;
+    font-size: 14px;
+    margin-top: 8px;
+}
+
+#data {
+    margin-right: 100px;
+}
+
+#secondBoss {
+    margin-top: 72px;
+    width: 546px;
+    height: 638px;
+    background: #EBF8FE;
+    border-radius: 24px;
+    padding: 40px 32px;
+}
+
+#form {
+    font-size: 40px;
+    color: #181D27;
+}
+
+#full {
+    margin-top: 24px;
+}
+
+#you {
+    margin-top: 24px;
+    color: #6D5F8B;
+    padding: 16px; 
+    border-radius: 8px;
+    border: 1px solid #380054;
+    width: 482px;
+    height: 72px;
+}
+
+#secondEmail {
+    margin-top: 24px;
+    color: #1B003D;
+    font-size: 14px;
+    margin-bottom: 8px;
+}
+
+#enter {
+    width: 482px;
+    height: 74px;
+    padding: 16px 8px;
+    border-radius: 8px;
+    border: 1px solid #380054;
+}
+
+#would {
+    margin-top: 24px;
+    font-size: 14px;
+    color: #1B003D ;
+
+}
+
+#yes {
+    margin-bottom: 10px;
+    margin-top: 7px;
+}
+
+#no { 
+    padding-left: 11px;
+}
